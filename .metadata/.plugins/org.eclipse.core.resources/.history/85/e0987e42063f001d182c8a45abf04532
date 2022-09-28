@@ -1,0 +1,5 @@
+package com.coche.service.controller;
+
+public class CocheController {
+
+}

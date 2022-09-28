@@ -1,0 +1,5 @@
+package com.coche.service.model;
+
+public class Coche {
+
+}

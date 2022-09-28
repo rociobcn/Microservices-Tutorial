@@ -1,0 +1,5 @@
+package com.coche.service.repository;
+
+public class CocheRepository {
+
+}

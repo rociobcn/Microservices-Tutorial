@@ -1,0 +1,13 @@
+
+•
+java:S1488""]Immediately return this expression instead of assigning it to the temporary variable "motos".(ÆóÅ·úÿÿÿÿ8¥’Èš¸0H°RMINORZ
+CODE_SMELL
+–
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "coches".(“¯¥ÿÿÿÿÿ8¥’Èš¸0H­RMINORZ
+CODE_SMELL
+›
+java:S14885"dImmediately return this expression instead of assigning it to the temporary variable "nuevoUsuario".(Ø¿ Íùÿÿÿÿ8Ë·©–¸0H"RMINORZ
+CODE_SMELL
+š
+java:S1488("bImmediately return this expression instead of assigning it to the temporary variable "nuevoCoche".(½Ç¿ëøÿÿÿÿ8¢Ô½œ¸0HïRMINORZ
+CODE_SMELL
